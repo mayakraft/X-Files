@@ -1,0 +1,828 @@
+
+SCENE 1 
+MAHAN PROPULSION LABORATORY, 
+WASHINGTON INSTITUTE OF TECHNOLOGY, COLSON, WASHINGON
+(A janitor, Roland Fuller, is cleaning the floor in a hallway. He swipes his badge through a reader and then enters a code on the keypad, but the door doesn't open. Another man, Dr. Keats, approaches as Roland tries it again, unsuccessfully. Impatiently, the man grabs the badge from Roland.)
+
+DR. KEATS: Here, let me do it. Put your number in, then your card. What's your number, Roland?
+
+ROLAND: 315.
+
+(Keats punches in the code and then swipes the card through the reader. The door opens.)
+
+DR. KEATS: See how easy it is?
+
+(As Keats enters, a jet engine is running in a wind tunnel. Drs. Nollette and Surnow are in front of the controls.)
+
+DR. NOLLETTE: Engine efficiency?
+
+DR. SURNOW: 94%.
+
+(The mach indicator climbs above 13.0.)
+
+DR. NOLLETTE: We need more. How's the backpressure holding?
+
+DR. SURNOW: What do you think? It's climbing.
+
+DR. NOLLETTE: Increase the blade inclination. I said, increase the blade inclination!
+
+DR. SURNOW: The inclination of the blade is pi over 9. We've reached maximum velocity.
+
+(Surnow reaches for a switch on the controls but Nollette grabs his hand.)
+
+DR. NOLLETTE: No. Let it go! It will work!
+
+DR. SURNOW: The engine's going to destroy itself! I'm not going to do that!
+
+(Surnow hits a key on the keyboard. The engine starts to wind down.)
+
+DR. NOLLETTE: It's not going to destroy itself. Come on, we're almost there!
+
+DR. SURNOW: There's something wrong with our equation.
+
+(The engine continues to wind down as Keats approaches from behind.)
+
+DR. KEATS: What happened?
+
+DR. NOLLETTE: Nothing. Because Surnow pulled the plug.
+
+DR. SURNOW: I'm just protecting the baby ... and four years of work, Frank!
+
+DR. NOLLETTE: Four years of work that's going to add up to zilch, because unless we show some progress, they're going to pull the plug on us, Ron.
+
+(Nollette leaves.)
+
+DR. KEATS: He's right, you know. We should have continued with the test.
+
+DR. SURNOW: Somebody's going to crack Mach 15, and I want that someone to be us. I'm not going to jeopardize everything just because you two guys can't wait to see your name in print!
+
+DR. KEATS: It's the print that gets the money, Ron.
+
+DR. SURNOW: If you want to go down in flames together, fine. You go ahead. I'm gonna do the math.
+
+(Keats leaves.)
+
+ROLAND: Good night, Dr. Keats.
+
+(Surnow is writing an equation on a whiteboard while Roland cleans the floor. Surnow then hits a key and the door to the wind tunnel opens. He steps in and opens an interior panel to get at the controls. Roland goes to the keyboard and hits a key. The door to the wind tunnel closes with Surnow still inside.)
+
+DR. SURNOW: What the hell?
+
+(He looks through a window and sees Roland at the keyboard.)
+
+DR. SURNOW: Roland, open the door. Open the door. Roland, I want you to listen to me very carefully. We have to open this door, Roland. Stop typing, Roland!
+
+(Roland has continued typing at the keyboard, and the inlet vanes for the wind tunnel open. Then the engine starts and the wind velocity begins to climb.)
+
+DR. SURNOW: Roland, open the door! What are you doing? Open the door!
+
+(The mach indicator approaches 1.0, and Surnow's clipboard is carried into the engine by the wind.)
+
+DR. SURNOW: Roland! Are you listening?
+
+(Roland stops typing and moves to the whiteboard, as Surnow struggles against the wind to the inlet end of the tunnel. Roland erases the equation that Surnow had written. Surnow hooks his fingers on the metal grating at the end of the tunnel as the wind lifts his feet. Surnow screams as the mach indicator passes 3.0. Roland starts writing his own equation on the whiteboard. The mach indicator passes 4.0, and Surnow is now horizontal, hanging onto the screen and screaming. Roland finishes writing the equation, and the mach indicator approaches 7.0. As Roland walks back to the keyboard, through the window Surnow is seen flying down the tunnel toward the jet engine. There is a squishing noise. Roland resumes cleaning the floor.)
+
+
+
+
+[OPENING CREDITS] [OPENING CREDITS] [OPENING CREDITS] [OPENING CREDITS] [OPENING CREDITS]
+
+
+
+SCENE 2
+(Mulder and Scully walk down the hallway leading to the wind tunnel control room.)
+
+MULDER: How was the wedding?
+
+SCULLY: You mean the part where the groom passed out or the dog bit the drummer?
+
+MULDER: Did you catch the bouquet?
+
+SCULLY: May-be. (looking at a folder in Mulder's hand) So is that what you couldn't talk to me about over the phone?
+
+MULDER: (handing her the folder) The project that everyone says doesn't exist, does exist.
+
+SCULLY: (reading the label on it) The Icarus project?
+
+MULDER: The next generation in jet engine design, capable of doubling current supersonic speeds using half the fuel. At least in theory.
+
+SCULLY: And Ronald Surnow was an aeronautical scientist who worked on it here at the university.
+
+MULDER: Yes.
+
+SCULLY: How close are they?
+
+MULDER: I'm not sure, but Surnow is the second scientist on the team to die in the last six months.
+
+SCULLY: OK, but how is this an X-file? Mulder, you don't think this has anything to do with UFO technology?
+
+MULDER: There's something unexplainable here, Scully, but it's certainly not unidentifiable.
+
+(They enter the control room.)
+
+MULDER: (to a man inside the door) Keats?
+
+MAN: (pointing at Keats) There.
+
+MULDER: Dr. Keats? We're with the FBI. I'm Agent Mulder, this is Agent Scully. (Mulder flashes his badge and they shake hands) We understand you discovered Dr. Surnow this morning.
+
+DR. KEATS: What was left of him.
+
+(They walk into the wind tunnel, where several other scientists, including Nollette, are inspecting the engine.)
+
+SCULLY: How do you suppose he became trapped in the wind tunnel?
+
+DR. KEATS: Someone must have shut him in. The door can only be opened or locked from in there.
+
+SCULLY: By computer?
+
+DR. KEATS: We've already been through this with the police. How many times do we have to rehash it?
+
+SCULLY: Another member of your team died a short time ago. Isn't that correct?
+
+DR. NOLLETTE: (walking over to them) Yes. Arthur Grable. He was killed in an automobile accident in November. I'm Frank Nollette. I'm also on the project.
+
+(He shakes hands with Mulder and Scully.)
+
+SCULLY: Are you certain it was an accident?
+
+DR. KEATS: What are you driving at?
+
+(Mulder exits the wind tunnel.)
+
+SCULLY: Your work seems to be a perfect target for industrial espionage.
+
+(Keats and Nollette exchange glances. Mulder is in the control room, looking at the whiteboard, which has several equations written on it.)
+
+MULDER: (pointing at the bottom line) Who wrote this?
+
+(The other three join Mulder in the control room.)
+
+DR. NOLLETTE: Ron was working on it when I left.
+
+MULDER: You see, the handwriting here doesn't seem to match any of the other handwriting on the board.
+
+DR. KEATS: It isn't mine.
+
+MULDER: (checking the folder) What about Roland Fuller?
+
+DR. NOLLETTE: Uh, Roland's the, uh, janitor.
+
+MULDER: Well, according to the police report, he was the only other person here last night.
+
+DR. KEATS: Roland didn't do that.
+
+SCULLY: How do you know?
+
+DR. KEATS: Let's just say Roland isn't exactly a rocket scientist.
+
+
+
+
+SCENE 3 
+HERITAGE HALFWAY HOUSE, COLSON, WASHINGTON
+(Roland is licking and applying adhesive stars to a poster that has "Tracy" written on it. He pushes it across the table to Tracy.)
+
+ROLAND: Here.
+
+TRACY: "Tracy."
+
+ROLAND: With stars.
+
+MRS. STODIE: (walking in with Mulder and Scully) Roland? There are some people here would like to talk with you.
+
+ROLAND: Uh-oh. I went off the paper. Sorry.
+
+MRS. STODIE: That's all right, Roland. Tracy, would you like to come help me in the TV room?
+
+TRACY: OK.
+
+(Mrs. Stodie and Tracy exit.)
+
+MULDER: Hi, Roland. Do you mind if we sit down?
+
+ROLAND: OK.
+
+MULDER: Thanks. You mind if we ask you a couple of questions? Do you remember working last night?
+
+ROLAND: Uh-huh.
+
+SCULLY: Do you remember seeing anything unusual? Seeing any strangers? (Roland shakes his head.) Did, um, did Dr. Surnow or Dr. Keats or Dr. Nollette do anything unusual?
+
+ROLAND: Nope.
+
+SCULLY: You must like stars.
+
+ROLAND: One hundred and forty-seven.
+
+SCULLY: Sorry?
+
+ROLAND: (pointing at Scully's blouse) Stars.
+
+(Scully looks down at her blouse, which has stars on it.)
+
+MULDER: You like numbers, too.
+
+(Roland has a sudden vision in which Dr. Keats' head is frozen. He reacts violently, pushing the container of stars off the table. He runs around and starts to gather them. Scully comes around to help.)
+
+SCULLY: Roland, let me help you.
+
+ROLAND: (as he picks up the stars) One, two, three, four, five ...
+
+(Mulder looks down at a piece of paper that Roland was working on. It has the number 15626 written on it in several places.)
+
+ROLAND: ... six ...
+
+MRS. STODIE: (entering the room) Roland.
+
+ROLAND: ... seven ...
+
+MRS. STODIE: Is everything ok?
+
+ROLAND: ... eight, nine ...
+
+(Mulder folds and pockets the piece of paper.)
+
+MRS. STODIE: Roland, are you all right?
+
+ROLAND: ... ten, eleven, twelve, thirteen ...
+
+MRS. STODIE: What happened?
+
+ROLAND: ... fourteen ...
+
+MRS. STODIE: What did you say to upset him so?
+
+ROLAND: ... fifteen, sixteen, seventeen ...
+
+
+
+
+SCENE 4 
+FBI REGIONAL HEADQUARTERS, SEATTLE, WASHINGTON
+(Mulder and Scully are consulting with a handwriting analyst, who has the whiteboard writing displayed on the wall with an overhead projector.)
+
+ANALYST: It's definitely the work of a fourth and distinct individual. Dr. Surnow's, Dr. Keats', and Dr. Nollette's cursive standards don't match what you found on the whiteboard.
+
+MULDER: Would you do me a favor and try this?
+
+(He hands the analyst the paper that he took from Roland.)
+
+SCULLY: What is it?
+
+MULDER: It's something Roland was doodling at the home.
+
+SCULLY: You don't really think that Roland ...
+
+MULDER: Besides Nollette and Keats, he's the only person we can prove was in the lab that night.
+
+SCULLY: Yes, but we're talking about a sophisticated fluid dynamics equation. Roland Fuller barely has an IQ of 70.
+
+MULDER: Well, you saw his facility with mathematics. Don't some autistic individuals display unusual abilities?
+
+SCULLY: Yes, but even savants behave only as human calculators. I mean, they can perform certain functions but they can't tell you the value of anything or even the meaning of a number.
+
+ANALYST: I hate to take sides, guys, but the bottom line is no. The terminal stroke on the 6, the roof on the 5 - I'm sorry. He didn't write it.
+
+(Roland is tossing and turning in his sleep. He sees a fleeting vision of Dr. Keats struggling with someone. He awakens.)
+
+
+
+
+SCENE 5 
+MAHAN PROPULSON LABORATORY, BUILDING 214
+(Keats is working in the laboratory. He is listening to music through headphones as he sits at a terminal. The door to the lab opens and Roland enters. He sneaks up on Keats from behind and smashes his coffee cup over his head. He then drags the unconscious Keats over to a large container of liquid nitrogen and takes off the lid.
+
+Wearing cryogenic gloves, he grabs Keats and tries to put his head down into the liquid nitrogen. Keats revives and struggles, but Roland grabs his hair and forces his head down into it. Seconds later, he lifts his frozen head out of the container and throws his body to the side. There is a shattering noise. As Roland walks away, there are pieces of Keats' head on the floor. Roland steps on what looks like an ear. There is the sound of typing on a keyboard.)
+
+
+
+
+SCENE 6
+(Scully and Mulder are at the scene of Keats' murder. On the floor is the usual outline of the body, except there is no head. There are a couple dozen "X" marks around the body as well as the outlines of several larger pieces. A policeman, detective and police photographer are also there.)
+
+SCULLY: An organic object exposed to liquid nitrogen at minus 320 degrees will become frozen, exhibiting great tensile strength, but is vulnerable to stress from compression or impact. Now, I've seen this demonstrated on a fish before ...
+
+MULDER: I don't think they'll be performing this experiment on Beakman's World. (he walks over to the detective and points at the computer) Has this been dusted?
+
+DETECTIVE: Treat yourself.
+
+(Mulder sits at the terminal and pulls up a file directory. The directory shows the last two entries are KMAN.DOC and ARTHUR.DOC. Below is a password prompt.)
+
+MULDER: Hey, Scully! Look at these files. KMAN, must be Keats. His file was turned off at 12:31 last night.
+
+SCULLY: But look, someone else entered a file under the name Arthur after 12:31.
+
+MULDER: And worked on it for nearly 5 hours.
+
+SCULLY: Well, it couldn't have been Keats. Judging from the rigor of the body, he was dead around 12:30.
+
+MULDER: So you're saying someone came in here, killed Keats, and then just did some work on an old Dr. Arthur Grable file?
+
+(Scully tries to look at the file but gets an "access denied" message.)
+
+SCULLY: Well, I can't access the ARTHUR file. We're gonna need the password.
+
+MULDER: Try 15626.
+
+(Scully looks puzzled but tries it. A graph of turbine entry temperature appears on the screen.)
+
+SCULLY: How did you know that that ...
+
+MULDER: This is Arthur Grable's work on the same fluid dynamics equation the others were working on. (he pages through other graphs) Look at all those entries. Someone has been continuing his work in the six months since he died.
+
+SCULLY: How did you know what the password was?
+
+(He shows her Roland's page of doodling that has 15626 written on it.)
+
+(Roland is dreaming.)
+
+[A small child stands on a porch in front of a woman who says "Wave bye. Wave goodbye." Another child, a twin of the first, is crying as a woman puts him into the back seat of a car. The woman's voice continues to say "Wave goodbye."]
+
+(Roland awakens. He is in bed but wearing his work clothes. Mrs. Stodie enters.)
+
+MRS. STODIE: Roland? Why did you sleep in your clothes last night? Well, let's get you dressed. You have visitors.
+
+(Mulder and Scully walk in behind her.)
+
+ROLAND: (to Mrs. Stodie) I'm not supposed to talk to them.
+
+MRS. STODIE: Who told you that? Remember that talk we had about being shy. These are nice people, Roland.
+
+(Mulder has ducked into Roland's closet.)
+
+MULDER: Hey, Roland, you've got more shirts than I do. (holds up a navy blue shirt with white patterns on it) I think this one would look stylin' today. What do you think?
+
+ROLAND: The green one.
+
+MULDER: The green one?
+
+ROLAND: Please.
+
+SCULLY: Mrs. Stodie, can I talk to you a second? See you later, Roland.
+
+(Scully and Mrs. Stodie leave the room.)
+
+MULDER: (pulls out the green shirt) This one? Here you go. So you like your job at the college, Roland?
+
+ROLAND: (putting on the shirt) Yes.
+
+MULDER: I hear you're very good at it. You remember how you got your job?
+
+ROLAND: A man talked to Mrs. Stodie.
+
+MULDER: What man?
+
+ROLAND: Dr. Grable.
+
+MULDER: Was Dr. Grable nice to you?
+
+ROLAND: Yes.
+
+MULDER: When was the last time you spoke to him? Last week, the day before?
+
+ROLAND: Dr. Grable died.
+
+MULDER: I'm sorry.
+
+ROLAND: Yeah. People die. They go away ... and they're not supposed to come back.
+
+(Scully and Mrs. Stodie talk in another room. Lisa is cleaning the floor nearby.)
+
+SCULLY: Has Roland ever mentioned the name Arthur?
+
+MRS. STODIE: That was Dr. Grable's first name. But we only called him Dr. Grable. I doubt Roland even knew his first name was Arthur.
+
+(Lisa has stopped cleaning and is eavesdropping.)
+
+SCULLY: Mrs. Stodie, can I get a copy of Roland's file and past history?
+
+MRS. STODIE: Our patients' histories are confidential.
+
+SCULLY: I understand, but I have grounds to obtain them, and the less time we have to spend in court, the more time we have to help Roland.
+
+(Mulder and Scully are sitting at a table in a library.)
+
+MULDER: Roland Fuller was hired by Arthur Grable. He went to the halfway house specifically to find a mentally challenged person.
+
+SCULLY: Are you suggesting that Arthur Grable hired Roland in order to use him? (Mulder arches his eyebrows) And are you suggesting that Arthur Grable is not dead?
+
+MULDER: Well, if he had intentions of killing Nollette, Keats and Surnow, why not set it up to appear the least likely suspect?
+
+SCULLY: Yeah, but by the look of this, (she holds up a photo of Grable's accident scene) he's hamburger.
+
+MULDER: Maybe he staged it. That would explain why his work is continuing on, six months after his "death".
+
+SCULLY: (reading from Grable's file) This obituary says that Arthur Grable was born in Seattle. His father was a big banker, his mother was active in a number of charities. Only child. Summa cum laude in physics. Doctoral and post-doctoral in aeronautical engineering at Harvey Mudd. Brilliant future, tragically cut short.
+
+MULDER: (reading from Roland's file) Roland's also from Seattle. He spent most of his life at the Heritage Halfway House. The identity of his parents has been sealed by the courts. There's very little information on Roland before the age of three. That's when he was put in the Heritage program.
+
+SCULLY: Does it say when he was born?
+
+MULDER: (flipping through some pages) July 15, 1952.
+
+SCULLY: (also flipping through pages) That's also Arthur's birthdate.
+
+(Tracy and Roland are at the halfway house, drawing. Roland is drawing an airplane.)
+
+ROLAND: Don't you wish you could fly?
+
+TRACY: I can ... when I dream. (walks over to him) People can do anything in a dream, you know. Once, one time I had a dream we were married and lived in a house. Do you have dreams, Roland?
+
+(He looks agitated. Tracy kneels next to him.)
+
+TRACY: You can tell me. Roland? Who's Arthur?
+
+(Roland turns to her suddenly. He has a vision of pushing Tracy to the floor and choking her. He screams, pushes her aside and runs out of the room.)
+
+TRACY: (crying) I'm sorry, Roland. I'm sorry!
+
+(Roland has run upstairs and locked himself in the bathroom. He sits on the floor.)
+
+TRACY: (knocking on the door) Roland! Roland.
+
+ROLAND: (shouting) Go away!
+
+(He has another vision of him choking Tracy.)
+
+TRACY: Roland, what's the matter?
+
+ROLAND: Go away! I don't want to hurt you. Go away! (Tracy is crying at the door) Go away.
+
+
+
+
+SCENE 7
+(Mulder and Scully are with Nollette in his office. Mulder points at a photo showing some "hippie" students in an office. There is a Volkswagen behind them.)
+
+MULDER: Is that you?
+
+DR. NOLLETTE: Yes.
+
+MULDER: Cool 'do. What's the story here?
+
+DR. NOLLETTE: (sighs) Um, a quantum physics professor of mine at Harvey Mudd flunked me. He challenged the tenets of one of my theories - a theory I later published in 'Nature'. Anyway, uh, to get back him, (laughs) one afternoon we decided to take his car apart and put it back together again in his office and left it running.
+
+MULDER: (to Scully) Hmmm, an egghead classic.
+
+DR. NOLLETTE: It was Arthur Grable's idea.
+
+SCULLY: Is that Arthur Grable there, sitting on the chair?
+
+(She's referring to a bearded man sitting in the foreground.)
+
+DR. NOLLETTE: Yeah.
+
+SCULLY: Was he a practical joker?
+
+DR. NOLLETTE: On top of all his brilliance, he had a genius for executing elaborate schemes.
+
+MULDER: Could he be making it seem like a man with a 70 IQ is gaining access to and, uh, operating his old computer files?
+
+DR. NOLLETTE: Arthur would still have to be alive.
+
+SCULLY: Could he have faked his own death?
+
+DR. NOLLETTE: No.
+
+MULDER: The police report on the auto accident that killed Arthur Grable is woefully incomplete. The dry road surface, no mechanical problems found. The body was never admitted to the county morgue and there was no funeral.
+
+DR. NOLLETTE: (standing) If, uh, you are trying to suggest that Arthur Grable killed Surnow and Keats and is after me next, you're way off. Art could not have done the murders.
+
+SCULLY: How can you be so certain?
+
+
+
+
+SCENE 8 
+AVALON FOUNDATION, 
+WASHINGTON INSTITUTE OF TECHNOLOGY, COLSON, WASHINGTON
+(Mulder and Scully are talking to a Dr. Barrington. They are looking at a stainless steel tank, numbered '18', that has a temperature indicator on it that reads -320F.)
+
+BARRINGTON: This is Arthur Grable. Uh, because of the massive internal damage to his body caused by the car accident, we could only preserve the head.
+
+SCULLY: Wouldn't your client find it somewhat inconvenient to be thawed out in the future, only to discover he had no functional mobility?
+
+BARRINGTON: We believe that by the time science figures a way to revive our clients ...
+
+MULDER: ... you'll also know how to clone new bodies for them.
+
+BARRINGTON: Exactly. This technology is progressing faster than anyone thought possible. Ask anyone here at the university. So, while for us the passing of each second brings our bodies closer to death, for our clients it brings them closer to life.
+
+(Mulder notices that the temperature indicator is fluctuating between -319 and -320.)
+
+MULDER: These fluctuations in temperature - do they happen often?
+
+BARRINGTON: No, we've had some problems with Dr. Grable's capsule, and the technicians have checked it for possible malfunctions but they found nothing.
+
+MULDER: Is it possible the brain is causing the fluctuation?
+
+BARRINGTON: No, but we are looking for the explanation. The patient's in no danger. He remains perfectly preserved as long as there's liquid nitrogen in the capsule.
+
+SCULLY: May we take a look at Arthur Grable's records? (he hands her a file) Thank you. Dr. Barrington, in your conception of future medical science, what requirements will exist to be an organ or tissue donor?
+
+BARRINGTON: Same requirements as there are today, compatible genetic make-up. It's best if the donor's related.
+
+(The temperature indicator fluctuates again and beeps. Barrington walks over to investigate. Scully calls Mulder over to her.)
+
+SCULLY: Mulder? Arthur Grable put down only one donor.
+
+(The form lists Roland Fuller.)
+
+MULDER: Roland Fuller and Arthur Grable had the same birthday. I think they're twins.
+
+(Mulder and Scully are working with a technician in front of a computer. They are altering a photo of Arthur Grable.)
+
+TECHNICIAN: Older or younger?
+
+MULDER: Same age, just less hairy and with better eyesight.
+
+TECHNICIAN: Gotcha. And the moustache?
+
+SCULLY: No, lose the whole beard.
+
+(As the technician types, Arthur Grable's glasses disappear as well as his beard and moustache.)
+
+TECHNICIAN: Next?
+
+MULDER: Close cropped hair, with a slightly receding widow's peak. Lose the glasses.
+
+(The face on the screen looks exactly like Roland.)
+
+SCULLY: That's Roland.
+
+MULDER: Give or take a few pounds.
+
+(Mulder is talking to Roland at the halfway house.)
+
+ROLAND: Tell me about your dreams, Roland. (he doesn't respond) It's all right, I won't tell anybody. (still no response) You know, I had a dream last night. I dreamt I was, uh, swimming in this pool. And I could see my father underwater, but when I dove down, the water stung my eyes. Then there was another man at the pool, watching me. He upset me. He was asking me questions I didn't want to answer. And I had to leave. I couldn't find my father.
+
+ROLAND: I can't tell you my dreams.
+
+MULDER: Why not?
+
+ROLAND: Bad.
+
+MULDER: (putting his hand on Roland's shoulder) Your dreams are bad, Roland. Not you. You're a good person.
+
+ROLAND: I hit Tracy.
+
+(Nearby, Tracy looks over at Roland.)
+
+MULDER: Your dreams make you hit Tracy?
+
+(He nods. Mulder sees a remote control spaceship toy on the shelf. He picks it up.)
+
+MULDER: You know how to work this toy, Roland?
+
+ROLAND: Yeah.
+
+(Mulder puts the toy on the floor and gives the remote control to Roland. He operates the control and the ship scoots across the floor.)
+
+MULDER: Now, you see the way you work that toy is like what's happening to you. You're the spaceship, Roland, and your dreams are the controls.
+
+ROLAND: But who ... who runs the controls?
+
+MULDER: (showing him a photo of Arthur Grable) Have you seen this man recently?
+
+(Roland looks at the photo and reacts strongly. He sees visions of two small boys, twins, running out on a porch. One, crying, is loaded into a car, while the other stays on the porch. A voice says "wave bye-bye to Roland." He then sees the coffee cup being broken over Keats' head, Surnow flying toward the jet engine, Keats' frozen head and Tracy being choked. Roland screams and thrashes about in his chair.)
+
+MULDER: (trying to calm him) Roland! Roland! Roland, stop!
+
+(He runs out of the room, screaming. Tracy follows him.)
+
+TRACY: Roland!
+
+(Scully and Mrs. Stodie have heard the commotion and come out to see Tracy following Roland up the stairs. Roland locks himself in the bathroom again.)
+
+TRACY: Roland! Roland!
+
+MULDER: (heading upstairs with Scully and Mrs. Stodie) We need to arrange to keep Roland under observation.
+
+TRACY: (at the bathroom door) Roland! Roland!
+
+(Roland sees a vision of the bathroom window broken. Moments later, there is a crashing sound.)
+
+MULDER: He's trying to get away.
+
+TRACY: Roland! Roland!
+
+(Mulder runs downstairs and out the door, looking for Roland.)
+
+MULDER: Roland! Roland! Roland! Roland! Roland!
+
+(He doesn't find him. Upstairs, Scully looks out the broken window.)
+
+
+
+
+SCENE 9 
+MAHAN PROPULSION LABORATORY
+(It is late evening. Mulder and Scully are in a hallway. He has just gotten off the phone.)
+
+MULDER: Nollette's gone. We should arrange a security guard to find him.
+
+SCULLY: Mulder, no one's gonna provide you with anything once you explain your theory on how Roland Fuller is capable of these murders.
+
+MULDER: You've got a brother, don't you Scully?
+
+SCULLY: Yeah. I've got an older one and a younger one.
+
+MULDER: Well, have you ever thought about calling one of them all day long and then all of a sudden the phone rings and it's one of them calling you?
+
+SCULLY: Does this pitch somehow end with a way for me to lower my long distance charges?
+
+MULDER: I believe in psychic connections, and evidence suggests that it's stronger between family members, strongest of all between twin siblings that shared the same womb.
+
+SCULLY: OK, maybe. But in this case, one sibling has closer ties to a frozen fudgesicle than he does to his own brother.
+
+MULDER: Arthur Grable is not dead. He's in a state of consciousness that no human has ever returned from. And what if that state allows one to develop psychic ability to a potential that the conscious mind is too preoccupied to explore or believe in? He could use that ability to control his brother to kill those scientists.
+
+SCULLY: But why? He's been working with these colleagues for years.
+
+MULDER: Well, that's a question that only Dr. Nollette can answer.
+
+SCULLY: OK. Let's go. I have to call my brother.
+
+(As they walk away, Nollette is watching them on a security TV monitor. He has heard their conversation. The monitor shows them walking down the hall.)
+
+MULDER: We've got to find Nollette.
+
+SCULLY: Let's talk to campus security.
+
+MULDER: We go this way? (pointing straight ahead)
+
+SCULLY: No, we go left.
+
+(Mulder follows Scully.)
+
+(Later, Nollette is at the Avalon Foundation.)
+
+DR. NOLLETTE: Well, wherever you are, Arthur, I'm sure you'll appreciate this.
+
+(Nollette wraps aluminum foil over a badge and swipes it through a reader. The door opens and he walks to Arthur Grable's tank. Using a pen, he punches buttons on the control panel. The temperature display begins to rise, up to -312 as Nollette leaves.)
+
+(Back at the Mahan Propulsion Laboratory, Roland is writing, with both hands, on either side of a notebook. The temperature in Grable's tank reaches -307 and Roland reacts, looking slightly ill. He continues to write equations in the notebook.)
+
+
+
+
+SCENE 10 
+FBI REGIONAL HEADQUARTERS, SEATTLE, WASHINGTON
+(Scully and Mulder are reviewing the case. Scully reads from a file.)
+
+SCULLY: Arthur and Roland Grable, born at Puget Presbyterian to Mr. and Mrs. Louis Grable on July 15, 1952. Arthur was four minutes older than Roland.
+
+(She puts the file in front of him.)
+
+MULDER: Identical twins.
+
+SCULLY: Which means that they're the result of a single egg fertilized by a single sperm.
+
+MULDER: I've read studies which suggest that in some cases the identical twin arises very early in the embryonic stage when a mutation in one cell is rejected by the other cells as foreign.
+
+SCULLY: So that maybe Roland's condition is the result of a damaged chromosome rejected by one of Arthur's cells?
+
+MULDER: In a way, that would explain Arthur's genius and Roland's strange mathematical gift.
+
+SCULLY: In a way. (the phone rings) (to phone) Agent Scully.
+
+BARRINGTON: (on phone) This is Larry Barrington at the Avalon Foundation. We've, uh, got a situation here.
+
+(Barrington is talking on a cell phone. He is near Arthur Grable's tank, which now reads -168.
+
+SCULLY: Uh-huh.
+
+BARRINGTON: Last night we had a break-in at the facility. That's right. Yeah, it's Arthur Grable's storage unit. His internal thermostat's been compromised.
+
+SCULLY: Was there any tissue damage?
+
+BARRINGTON: We're trying to assess that now. The temperature's still rising. Something's blocking our access to the cooling program.
+
+SCULLY: (hangs up) (to Mulder) Someone tampered with Arthur Grable's capsule. They're attempting to stabilize it now.
+
+MULDER: Nollette?
+
+(At the laboratory, Roland is operating the wind tunnel, typing rapidly on the keyboard. Roland is sweating. The temperature on Arthur Grable's tank continues to rise. The mach indicator hovers at 13.8 as Roland looks ill. He types some more on the keyboard and groans.)
+
+ROLAND: What? What is it?
+
+(He concentrates, and the temperature on Arthur Grable's tank goes from -158 to -161. He types again and the engine speeds up and the mach reading rises, to a high of 15.13. A bell sounds, and Nollette appears behind Roland.)
+
+DR. NOLLETTE: "If I've seen further than other men, it's because I have stood on the shoulders of giants."
+
+ROLAND: No. This isn't yours!
+
+DR. NOLLETTE: It's amazing. There's this body, sitting there in front of me, talking. But you're controlling it, Arthur.
+
+ROLAND: You ... took my work!
+
+DR. NOLLETTE: What good was your work going to do you? You died before you could finish it, before you could publish it.
+
+ROLAND: It was mine!
+
+DR. NOLLETTE: And a brilliant piece of work, too. When I saw the writing on the whiteboard, I knew someone had found the key. Mach 15 was within our reach. Our futures were guaranteed. Ironic, isn't it? You did all the work, and I get all the glory.
+
+ROLAND: (screaming) No!
+
+(Nollette produces a gun from his pocket.)
+
+DR. NOLLETTE: Yes. Yes, Arthur. I was here, working on the intake problem, moments away from a solution when you attacked me. (he backs Roland away and sits at the controls) Fortunately, I was carrying a gun. After the murder of my colleagues, who could blame me?
+
+(Roland sees a vision of Nollette flying toward the jet engine.)
+
+ROLAND: No!
+
+(Nollette is looking at Roland's work on the computer screen and typing.)
+
+DR. NOLLETTE: That's, that's interesting. (laughs) I've got it. That's it. I've got it.
+
+(Roland picks up a nearby keyboard and hits Nollette with it, knocking him to the floor.)
+
+(Mulder and Scully arrive outside the laboratory. They pound on the door and flash their badges, and a guard lets them in.)
+
+(The wind tunnel door closes with Nollette inside. At the controls, Roland struggles, then types. Nollette revives in the wind tunnel just as the engine starts. He goes to the window and pounds on it, looking at Roland.)
+
+DR. NOLLETTE: Arthur! Arthur, open the door! Arthur!
+
+(Mulder and Scully are running through the halls. Nollette moves back toward the tunnel inlet as the Mach indicator reaches 1.0. Scully swipes a badge through the door and they enter as Nollette grabs the metal grating in the tunnel. Mulder goes to the controls but doesn't know how to operate them. The wind speed is over mach 3.0, and Nollette is now hanging horizontally to the grate.)
+
+MULDER: (to Roland) Arthur, how do you stop this? Tell me how! Arthur!
+
+(Scully moves between Roland and Mulder.)
+
+SCULLY: (to Mulder) Wait. (to Roland) Roland, we need you to help us. Please, we need you to help us to stop the machine.
+
+(Roland is having flashbacks to the separation of the twins. A woman is saying "Bye-bye, Roland. Arthur, say goodbye to your brother.")
+
+SCULLY: Try to remember how. Roland, you've got to help him or he's going to die.
+
+(The tunnel is at mach 4.0. Nollette is barely hanging on. Roland has a flashback of the car carrying him away while the woman's voice says "Wave good-bye, Arthur." As the tunnel reaches mach 7.0, Roland goes to the keyboard but seems uncertain.)
+
+MULDER: Come on, Roland.
+
+ROLAND: I can't remember.
+
+(He finally enters a command and the engine starts to slow just as Nollette loses his grip. He flies down the tunnel but lands several feet in front of the engine. Scully puts her hand on Roland's shoulder and gives him a reassuring nod.)
+
+(The temperature of Arthur Grable's tank reaches -150 and an alarm goes off.)
+
+(A Colson police car is in front of the halfway house.)
+
+SCULLY: He'll be held in psychiatric custody for evaluation.
+
+MRS. STODIE: Is he being charged with a crime?
+
+SCULLY: The D.A. hasn't made that determination yet.
+
+MULDER: But we've recommended that he be remanded to your custody as soon as the court deems it appropriate.
+
+MRS. STODIE: How could this happen? Roland never exhibited any violent tendencies.
+
+MULDER: It's my belief that he wasn't acting under his own volition.
+
+(Scully gives Mulder a stare.)
+
+MRS. STODIE: What do you mean?
+
+(Mulder opens a notebook and shows it to her.)
+
+MULDER: This is the work of Arthur Grable, Roland's brother. It's a new theory of jet propulsion, unfinished at the time of his death. In the last two weeks, Roland has completed the calculations.
+
+MRS. STODIE: How?
+
+(Mulder is about to answer but Scully interrupts.)
+
+SCULLY: We're not sure, Mrs. Stodie. All we know is that Roland was somehow able to finish his brother's research.
+
+(Roland is folding a shirt and putting it into a suitcase. Tracy enters the room.)
+
+TRACY: Roland? Where are you going? Roland, don't go.
+
+ROLAND: I have to.
+
+TRACY: OK. Fine.
+
+(Hurt, she walks toward the door. Roland calls her back.)
+
+ROLAND: Tracy. Wait.
+
+(He picks up his jar of stars and hands it to her.)
+
+ROLAND: Keep my stars.
+
+(She starts to cry as he walks past her.)
+
+TRACY: I love you.
+
+ROLAND: Me too.
+
+(He passes Mulder and Scully in the hall, giving them a gesture of good-bye. He stops in front of a mirror to bursh his hair and stares into the mirror before walking away.)
+
+[THE END]
+
+
+
+
+
+Return to the Scripts Page

@@ -1,0 +1,807 @@
+SCENE 1 
+CALIFORNIA INSTITUTE OF TECHNOLOGY, 
+VOLCANO OBSERVATORY, 
+PASADENA, CALIFORNIA, 2:45 AM
+(Pierce and Vosberg are walking down a hall.)
+
+VOSBERG: It was on the call sheet for them to check in with us at midnight.
+
+PIERCE: Did you try every band?
+
+VOSBERG: Repeatedly. All audiovisuals seem to be down.
+
+PIERCE: Maybe it's just a satellite glitch.
+
+(Vosberg reaches into his shirt pocket and pulls out a piece of paper.)
+
+VOSBERG: We thought so, too, until we received this ... (he hands the paper to Pierce) ... from a tracking station in Bend, Oregon. They picked it up about a half hour ago on an emergency frequency.
+
+(The paper reads "EMERGENCY TRANSMISSION. CASCADE VOLCANO RESEARCH TEAM REQUEST IMMEDIATE AIRLIFT")
+
+PIERCE: What are those guys doing?
+
+(They walk into the "Volcano Research Team Data Room", where a technician is seated at the controls.)
+
+VOSBERG: We did manage to uplink Firewalker's video camera. It's at base camp, so we're hoping it can, uh, give us a picture, tell us what's going on there.
+
+TECHNICIAN: Data feed's coming in now.
+
+(The video from Firewalker comes into focus on a monitor. It shows a view from inside the volcano.)
+
+PIERCE: What's the robot doing in the volcano?
+
+VOSBERG: I don't know. There's no descent scheduled.
+
+TECHNICIAN: Firewalker's not responding. Except for the video feed, I can't get control. Someone's overriding it.
+
+(The monitor now shows the air temperature at 143 degrees.)
+
+PIERCE: Lock camera remote and pan left.
+
+(The technician operates a joystick and the video monitor shows that the camera is responding. As it pans left, the legs of a man, lying on the ground, are seen passing across the top of the screen.)
+
+PIERCE: Stop. Stop. Go back. Tilt up and zoom in.
+
+(The technician complies, and the monitor shows a man lying motionless on the ground inside the volcano.)
+
+PIERCE: Erikson.
+
+(A shadow passes across the body.)
+
+VOSBERG: What the hell?
+
+PIERCE: Give me that.
+
+(Pierce takes the controls. As he zooms out and pans right, the shadow is seen again.)
+
+VOSBERG: There it is again. Did you see that? You saw that shadow, didn't you?
+
+TECHNICIAN: Yeah, but what could be moving around in that kind of heat?
+
+VOSBERG: I don't know, maybe it was, uh, just a ghost signal. It wouldn't be the first time.
+
+(Pierce continues to pan across the area, but there is no sign of what caused the shadow. The video feed is then lost, leaving only static on the monitor.)
+
+VOSBERG: What's going on up there?
+
+
+
+
+[OPENING CREDITS] [OPENING CREDITS] [OPENING CREDITS] [OPENING CREDITS] [OPENING CREDITS]
+
+
+
+SCENE 2 
+MULDER'S OFFICE
+(Pierce is showing a video tape to Mulder and Scully. The first part of the tape is from a newscast.)
+
+NEWS ANCHOR: (on video) Let's go now to our science editor, Eric Parker, standing by in Mount Avalon, Washington. Eric?
+
+(The reporter is walking in front of a large mechanical device, with a small group of people in the background. He then approaches Trepkos, who is standing in front of it.)
+
+NEWS REPORTER: (on video) I'm standing here on an historic eve, with a group of scientists who can barely contain their excitement about this device, which looks like a large titanium bug. Its name is Firewalker, and next week will make its first descent into an active volcano. Now this amazing robot is the brainchild of vulcanologist Daniel Trepkos, whose objective is to gather samples from the crater floor which may hold valuable scientific data about the earth's core.
+
+TREPKOS: (on video) Scientific data? We're talking about revisiting the very origin of the earth, peering into the fire where it all began - a human endeavor more important even than man's exploration of space.
+
+(Pierce pauses the video.)
+
+MULDER: It's no mean claim.
+
+PIERCE: Daniel always had a flair for self-dramatization.
+
+SCULLY: I'd always heard that he was brilliant.
+
+PIERCE: Brilliant doesn't go quite far enough. Daniel occupies that rare place among scientists where dreams, ambition and great luck converge.
+
+MULDER: And you think his luck just ran out?
+
+PIERCE: The team of scientists you just saw sent a distress signal yesterday after failing to make a scheduled status report, and they haven't responded to any of our calls. But by using remote telemetry, we were able to activate Firewalker's camera. This is what we found.
+
+(Pierce restarts the video tape, which shows the scene from inside the volcano that was seen earlier.)
+
+PIERCE: You're looking at the floor of the volcano. But this is the last thing we expected to discover. The dead man is, uh, Phil Erikson, chief seismologist. Now, look at this.
+
+(The shadow appears, and both Mulder and Scully move closer to the monitor.)
+
+MULDER: Whoa! What the hell is that?
+
+PIERCE: We don't know. Whatever it was disabled the camera. The temperature readings are upwards of 130 degrees at this depth.
+
+SCULLY: But that was alive.
+
+MULDER: Why weren't you up there?
+
+PIERCE: I left the project six weeks ago. Trepkos and I nearly came to blows.
+
+SCULLY: Over what?
+
+PIERCE: I wish I could explain. Daniel and I, uh ... I always played Salieri to his Mozart. I was never quite on his plane of intellect, but this time I found him slipping into madness, the way he began to control the others.
+
+MULDER: Do you think he's responsible for what happened?
+
+PIERCE: Whatever there is between me and Trepkos, I pray that he isn't. We've got 20 million tax dollars in this project. If word of it were to get out, it could destroy years of work. I'm afraid to go through proper channels.
+
+MULDER: (smiling) We're not exactly proper channels.
+
+SCULLY: How soon can we get up there?
+
+PIERCE: Well, we've got a charter flight waiting to take us to Seattle. From there, a helicopter will fly us to Mount Avalon.
+
+(Pierce turns back to the monitor to remove the video tape. Mulder is seated at his desk, while Scully sits on the edge of the desk.)
+
+MULDER: (softly) Scully? I don't think it's a good idea for you to go.
+
+SCULLY: Mulder, I appreciate your concern - but I'm ready. I want to work.
+
+MULDER: Well, maybe you should take some time off.
+
+SCULLY: I've already lost too much time.
+
+
+
+
+SCENE 3 
+CASCADE MOUNTAIN RANGE
+(Pierce, Mulder and Scully are flying in a helicopter to the project station. There is occasional radio traffic in the background. Pierce points to the mist-covered volcano.)
+
+PIERCE: There it is!
+
+(The helicopter continues over a ridge to a concrete building with a number of satellite dishes outside. They disembark from the helicopter, which then flies away. Pierce walks to a damaged dish.)
+
+PIERCE: This was Firewalker's satellite relay. We installed field instruments all around this area - seismographs, tiltmeters ...
+
+MULDER: We'll look around out here after we've checked inside.
+
+PIERCE: These instruments are worth millions of project dollars, and I'm accountable to the USGS for every one of them.
+
+SCULLY: Shouldn't we find the rest of the descent team first?
+
+PIERCE: I just want to take a quick damage survey. I'll catch up with you in a few minutes.
+
+(As he walks away, Scully sighs, expressing mild annoyance at Pierce's choice of priorities. She and Mulder then enter the building. They walk through an entrance area and down some steps into a dark area.)
+
+MULDER: Hello?
+
+(There is no answer. Mulder tries the light switch next to the door, but the lights remain off. They use flashlights to look through the first room. Scully finds some broken electrical components and ceramics on the floor. Mulder finds a desk and shelf with materials scattered about.)
+
+MULDER: Looks like somebody wanted to put this operation permanently out of commission.
+
+(Mulder walks through a set of double door into the next room, and a man with a mountaineering pick can be seen hiding within. Mulder looks around the room, which appears to be a laboratory. He finds numerous instruments as well as a contamination area. Suddenly the man emerges and takes a swing at Mulder with the pick. Mulder ducks and then tackles the man, pushing him back into a corner. Scully hears the commotion and enters, drawing her gun.)
+
+SCULLY: Mulder!
+
+(Mulder now has the man in a half-nelson and runs him across the room and onto a desk.)
+
+LUDWIG: Wait! Wait!
+
+SCULLY: What's going on?
+
+LUDWIG: Hey, this isn't what it looks like!
+
+MULDER: He just about took my head off!
+
+LUDWIG: I told you I made a mistake, OK? I'm sorry, all right?
+
+(Mulder pushes him away.)
+
+MULDER: Well, who the hell are you?
+
+LUDWIG: I'm Ludwig. I'm Jason Ludwig. I'm the robotics engineer for the descent team.
+
+MULDER: You always greet people this way?
+
+LUDWIG: I heard a noise, OK, I thought it was him. I was just trying to protect myself. You know, self-preservation?
+
+MULDER: Well, who did you think I was that you thought you had to protect yourself?
+
+LUDWIG: Trepkos.
+
+(Shortly after, the three are walking through another part of the base, down some stairs. As he talks, Ludwig opens the electrical box, throws the switch to turn on the electricity and the lights come on.)
+
+LUDWIG: He ran hot and cold, you know? Sometimes he wouldn't talk to us for days, and then - boom - you couldn't get him to shut up. Don't get me wrong, OK? No one revered the man more than me. I mean, he was a prophet, an oracle. He saw things ... I mean, he saw things that you and me, we only dream about and then forget when we wake up.
+
+(Ludwig walks over to a couple of rooms off the main area.)
+
+LUDWIG: Oh, it's OK, you can come out now, the cavalry's here.
+
+(A man and a younger woman slowly come out of the rooms. The man coughs. As he introduces them, Ludwig shows some mild disdain for the young woman.)
+
+LUDWIG: This is Peter Tanaka, our systems analyst. And, uh, this is Jesse O'Neil.
+
+O'NEIL: Are you the rescue team?
+
+MULDER: No, we're with the FBI.
+
+O'NEIL: The FBI? But you're taking us back, right?
+
+MULDER: After we've investigated what happened here.
+
+(As they talk, O'Neil appears stressed out, occasionally smiling or laughing nervously. Tanaka is very quiet and doesn't appear to be feeling well.)
+
+LUDWIG: Trepkos is what happened here.
+
+MULDER: Did he kill Erikson?
+
+LUDWIG: He flipped out. Right after the descent, he just flipped out.
+
+SCULLY: Can you think of anything that might have caused or contributed to his behavior?
+
+LUDWIG: You're asking me?
+
+O'NEIL: Daniel is sick. He had a bi-polar disorder, I think that's what it was. It wasn't a secret, but not something he advertised either. But with his medication, he was just fine.
+
+(Mulder wanders into an adjacent office and turns on the light.)
+
+LUDWIG: Yeah, well I think Erikson's wife might disagree with that.
+
+(O'Neil glares at Ludwig.)
+
+SCULLY: You're part of the team, Jesse?
+
+O'NEIL: Daniel was my thesis adviser at the university. He asked me to assist him on this project.
+
+MULDER: (coming out of the office with some papers) Are these his notes?
+
+O'NEIL: Oh, yeah, well whatever is left of them. First thing he did was destroy all his own work - you know, his field journals, his computer disks. We salvaged what we could, but I don't really think you'll find much in there ... of use, anyway.
+
+(Mulder looks through the papers and comes across a page with "NEW LIFE FORM" written and underlined on it.)
+
+(Outside, Pierce is walking through a wooded area in the early evening. He hears a noise.)
+
+PIERCE: Hello? Anyone there?
+
+(There is no response.)
+
+(Back in the building, Mulder motions Scully into a room where they talk in private.)
+
+MULDER: Scully? What do you make of Mr. Trepkos' neighborhood?
+
+SCULLY: What do you mean?
+
+MULDER: Don't you think their behavior is a little bizarre, almost paranoid?
+
+SCULLY: Well, considering what they've been through, not especially.
+
+MULDER: They're practically climbing the walls in there.
+
+SCULLY: Well, they've been living in the middle of nowhere for almost a year. One of their team members is dead, probably at the hands of another. You have to expect some heightened level of emotional distress.
+
+MULDER: No, there's more than that ... something they're not telling us.
+
+SCULLY: Based on what?
+
+MULDER: Based on when Ludwig tried to play tee-ball with my head. He knew I wasn't Trepkos.
+
+SCULLY: Now, Mulder, you're sounding paranoid.
+
+MULDER: Pierce knows these people. Let's find out what he thinks.
+
+SCULLY: OK.
+
+(In the forest, Pierce inspects a seismograph sensor and makes notes in a book. As he stands, he is pushed against a tree by Trepkos, who has dark burn marks on his face. Trepkos slips some cables around his neck and strangles him.)
+
+TREPKOS: No one can leave.
+
+(Trepkos slips the gasping Pierce downward and then breaks his neck with a twisting motion.)
+
+
+
+
+SCENE 4
+(It is now dark outside. As Pierce's body lies on the ground, the sounds of a search team can be heard in the distance.)
+
+VARIOUS: Pierce ... Pierce ... He's not here ... Pierce ... Can you hear me? ... Something's happened to him ... Pierce ... I'll check the landing site ...
+
+(A flashlight beam catches Pierce.)
+
+TANAKA: Oh, my God. (shouts) Get over here! He's over here! I found him! I found him! I found him!
+
+(Later, the group is back in the station. Pierce's body is wrapped in plastic on the floor.)
+
+SCULLY: That should do it.
+
+LUDWIG: What should we do with the body?
+
+SCULLY: Do you have a freezer?
+
+LUDWIG: Yeah, I'll take it.
+
+SCULLY: (to Mulder) Why don't you radio for the helicopter, I'm almost done here.
+
+MULDER: (to Ludwig and Tanaka, who are lifting the body) Let me help you.
+
+LUDWIG: That's OK, we got it.
+
+(Ludwig and Tanaka carry the body out, leaving Mulder and Scully alone.)
+
+MULDER: We can't leave, Scully. Not yet.
+
+SCULLY: Why not?
+
+MULDER: Trepkos is still out there.
+
+SCULLY: I know. He killed Pierce and probably Erikson. I think we should come back for him with a larger party.
+
+MULDER: I've been going over Trepkos' work, fragments mostly but I found several references to a subterranean organism.
+
+SCULLY: What are you talking about?
+
+MULDER: An unknown organism, existing within the volcano. I haven't found anything yet that describes it in specific terms but ...
+
+(Mulder pulls a piece of paper from his pocket and sets it on a table.)
+
+SCULLY: Mulder, nothing can live in a volcanic interior, not only because of the intense heat but the gases would be toxic to any organism.
+
+MULDER: (motioning to the paper) What does this say?
+
+SCULLY: (examining the paper) It describes the metabolism from hydrogen sulfide into silicon dioxide.
+
+MULDER: Doesn't that suggest a silicon-based life form?
+
+SCULLY: But the fundamental building block for every organism known to man is carbon, from the smallest bacterium to the largest redwood tree.
+
+MULDER: Yes, but silicon is the closest element to carbon. It reacts almost identically with other elements, the way it combines to form complex molecules. A silicon-based lifeform in the deep biosphere has been one of the Holy Grails of modern science and maybe Trepkos found it.
+
+SCULLY: Mulder, that is science fiction. It's, it's an elaborate construct from a delusional mind. This doesn't prove anything.
+
+(Scully starts to walk away.)
+
+MULDER: Trepkos said he had physical evidence. It's got to be around here somewhere.
+
+(Scully stops and turns back to Mulder.)
+
+SCULLY: Mulder, whatever evidence Trepkos had, he destroyed.
+
+MULDER: Maybe it wasn't Trepkos who destroyed it. What if it was one of the others?
+
+SCULLY: Why on earth would they do that? But, Mulder, the fact is that all of these people are suffering to varying degrees from post-traumatic stress, and from a strictly medical point of view, we have to get them out of here sooner rather than later.
+
+(She walks away, leaving Mulder a bit annoyed.)
+
+(Shortly after, O'Neil is in her room. She appears to be upset as Scully knocks on the door and enters. O'Neil is on the verge of tears throughout.)
+
+SCULLY: Jesse? Can I talk to you? Are you OK?
+
+O'NEIL: I hate this place.
+
+SCULLY: What happened here, Jesse? You can trust me.
+
+O'NEIL: After the first descent, Daniel changed. He became withdrawn and paranoid. He locked himself in the lab for three days and wouldn't let any of us in.
+
+SCULLY: Do you think the descent somehow triggered his breakdown?
+
+O'NEIL: Well, that's what I thought. And then ... (she walks over to a chest of drawers and removes some pills) ... I found out he stopped taking his pills.
+
+(She hands the pills to Scully.)
+
+SCULLY: Lithium carbonate.
+
+O'NEIL: Yeah, he said that they were polluting his brain. And he said I was polluting his body. I'm scared. I don't want to die here.
+
+SCULLY: What are you so afraid of, Jesse?
+
+O'NEIL: Daniel. The only reason I even came here was because of him. He promised me that this would be an adventure ... and that it would change my life. But eight months is a long time, and I just want to go home now.
+
+SCULLY: Where is home?
+
+O'NEIL: Anywhere but here.
+
+(Mulder has found some loose audio tape containing Trepkos's log recordings. He has improvised a take-up reel and is playing the loose tape on a recorder while listening on headphones.)
+
+TREPKOS: (recorded) Samples 7, 12 and 22 also contain trace evidence of the organism. The possiblity of this new, or perhaps unfathomably old, life form has left me sleepless, wondering if I haven't lost all perspective ... if my intense desire to find the truth hasn't finally eclipsed the truth itself. Our meddling intellect misshapes the beauteous forms of things we murder to dissect. My mind is a tangled knot I can no longer untie. Daily I fight the urge to sever it completely, to stop this descent ... (the tape runs out)
+
+(As Mulder continues to study his notes, there is an earth tremor. Mulder heads into the main control room to join Ludwig and Tanaka, who is sitting at a computer terminal. Tanaka is sweating profusely.)
+
+MULDER: What caused that tremor?
+
+TANAKA: (hoarsely) There's been a lot of seismic activity lately on the northeast rift zone.
+
+LUDWIG: Yeah, if Trepkos hadn't destroyed all our instruments, we might even have learned something from it.
+
+(Tanaka coughs.)
+
+MULDER: (to Tanaka) You feeling all right?
+
+TANAKA: Yeah.
+
+MULDER: You know, Agent Scully is a medical doctor. You should let her take a look at you.
+
+TANAKA: I'm fine.
+
+MULDER: Why don't you just let her take a look ...
+
+TANAKA: No.
+
+(Tanaka stands and pushes Mulder away, but then collapses to the floor.)
+
+MULDER: I'll go get Scully.
+
+(As Mulder leaves, Ludwig goes to Tanaka's assistance. Ludwig watches Mulder leave, then helps Tanaka to his feet.)
+
+LUDWIG: Come on, get up. She'll help you.
+
+TANAKA: I don't want her to help me.
+
+LUDWIG: Of course you do. It's for the best. We have to get out of here.
+
+(Mulder and Scully are running back toward the control room.)
+
+MULDER: He just collapsed after the tremor. He seems pretty bad.
+
+(They enter. Ludwig has Tanaka laying on an examination table.)
+
+LUDWIG: He's burning up.
+
+MULDER: What is it?
+
+SCULLY: I can't tell whether it's an infection or a toxic reaction, but we've got to get him to a hospital.
+
+LUDWIG: I'll get a stretcher.
+
+MULDER: What about Trepkos? We can't just leave him.
+
+SCULLY: Give me the short wave.
+
+(Mulder complies, while Ludwig returns with a stretcher. He and Mulder start to get Tanaka onto it.)
+
+SCULLY: (to radio) This is Agent Scully with the Firewalker team. Come in, Search and Rescue.
+
+MULDER: (to Ludwig) Got him?
+
+LUDWIG: (to Mulder) Yeah.
+
+SCULLY: (to Mulder and Ludwig) You guys go ahead. I'll get O'Neil and meet you at the landing site.
+
+RADIO: This is Search and Rescue, over.
+
+SCULLY: (to radio) Request dispatch of Med-Evac to our location immediately. We have an asian male, mid-thirties, spiking a high-grade fever.
+
+(Mulder and Ludwig are carrying Tanaka on the stretcher through the entrance area. As they walk, Mulder notices bulges appearing on the front of Tanaka's throat.)
+
+(Scully knocks on O'Neil's door and enters.)
+
+SCULLY: Tanaka's collapsed. We're getting him out.
+
+(Mulder and Ludwig come out the front door of the station. It has been raining outside and is still dark, although the area is well lit. As they walk away from the door, Tanaka suddenly twists and falls off the stretcher. He gets to his feet and starts to run away from Mulder and Ludwig, who give chase.)
+
+MULDER: Tanaka!
+
+LUDWIG: Peter! Peter, come on, get back here!
+
+(Tanaka runs into the woods, pursued by Mulder and Ludwig. Tanaka reaches the edge of a small ravine and falls down into it. Mulder and Ludwig appear at the top of the ravine.)
+
+LUDWIG: (pointing below) There!
+
+(Mulder's flashlight finds Tanaka, who is gagging and writhing in pain at the bottom of the ravine.)
+
+LUDWIG: Come on!
+
+(Mulder grabs Ludwig by the arm and holds him back while watching Tanaka.)
+
+MULDER: Don't go down there!
+
+LUDWIG: Let me go! What are you doing? Let, let go of me!
+
+MULDER: Don't go down there!
+
+LUDWIG: For God's sake, what are you doing? He needs our help!
+
+(As they watch from above, the bulge in the front of Tanaka's throat gets larger. There is a popping noise and a white powdery material is ejected from his throat. A plant-like spike pushes out, extending upward about six inches from his throat. Tanaka falls, dead.)
+
+
+
+
+SCENE 5
+(Inside the station, Tanaka's body is wrapped in plastic in an isolation area. Scully is at the microscope.)
+
+MULDER: So what is it, Scully? What are we dealing with?
+
+SCULLY: Without better imaging equipment, I can't say for sure.
+
+MULDER: I'll take any theory you've got.
+
+SCULLY: It appears to be some kind of a fungus.
+
+MULDER: Anything you recognize?
+
+SCULLY: Well, I'm not a botanist, but I think it's fair to guess that it's an unknown genus.
+
+(She steps back and Mulder looks in the microscope.)
+
+MULDER: What am I looking at here?
+
+SCULLY: Spores. I scraped them off the tip of the fungus. It appears as if one of the spores grew inside of Tanaka until it reached reproductive maturity ... essentially outgrowing its host. But by then, it had already caused massive tissue damage, particularly to the respiratory tract.
+
+MULDER: That would account for the sand in his lungs.
+
+LUDWIG: You found sand in his lungs?
+
+MULDER: Silicon dioxide, the waste product of a silicon-based organism.
+
+LUDWIG: Wait a second, there's no such thing as a silicon-based organism.
+
+SCULLY: Maybe now there is, but we won't have conclusive proof until we determine its molecular structure.
+
+MULDER: Come on, Scully, how else do you explain the sand in his lungs - the best trace evidence we could ask for. Trepkos was right.
+
+O'NEIL: Daniel knew about this?
+
+MULDER: He discovered the spore in the samples Firewalker brought up.
+
+O'NEIL: He would have told us.
+
+MULDER: Not if what he discovered was too disturbing even for him to understand.
+
+SCULLY: This might explain something else, though. The spore could explain Trepkos' dementia. Fungi often contain alkaloids that can affect the nervous system.
+
+LUDWIG: Yeah, but what about us? I mean, we weren't exposed.
+
+SCULLY: We don't know that. If it was an airborne microbe, any of us could have inhaled the spore.
+
+O'NEIL: So we're not going home, right?
+
+SCULLY: Not until we know how it's transmitted, how it incubates. If even one of us is infected, we could risk infecting a much larger population.
+
+(Upset, O'Neil walks back down toward her room.)
+
+MULDER: (to radio) Search and Rescue, this is Agent Mulder. Do you copy?
+
+RADIO: Yeah, this is Search and Rescue. We're still in a holding pattern, over.
+
+MULDER: (to radio) Please notify FBI District Headquarters in Spokane that our party is quarantining itself due to possible contagion. Have CDC set up an evacuation unit on high alert.
+
+RADIO: What's the nature of the contagion? (Mulder looks to Scully but she offers no advice) Agent Mulder?
+
+MULDER: (to radio) Tell them it's a biological agent ... of unknown origin.
+
+RADIO: That's affirmative. Standing by ...
+
+SCULLY: (to Ludwig) Maybe you should go check up on O'Neil.
+
+(Ludwig heads toward the living quarters, leaving Mulder and Scully alone. Mulder stares at Tanaka's body as Scully moves to his side.)
+
+MULDER: I'm going to go find Trepkos.
+
+SCULLY: What if he's already dead?
+
+MULDER: Then he'll have a tough time answering my questions. I've got to find out what he knows. What he's found could change everything we understand about the origin and evolution of life.
+
+SCULLY: He's dangerous, Mulder. He's already killed two men.
+
+MULDER: Then I have to find out why.
+
+(Nearby, Ludwig has stopped and eavesdropped on their conversation. He now walks away.)
+
+SCULLY: Will you at least let me go with you?
+
+MULDER: (quickly, shaking his head) No.
+
+SCULLY: Look, I know what you're thinking but you have to get past that. We both do. I'm back, and I'm not going anywhere.
+
+MULDER: You have to finish the autopsy on Tanaka. Hopefully, that will give us a better idea of what we're dealing with, whatever it is. (Mulder moves closer and puts a hand on Scully's shoulder) I'm counting on you to keep us all from ending up on that slab.
+
+(He leaves, and Scully starts to work again on Tanaka's body.)
+
+(Mulder comes down the stairs to the living quarters area. As he approaches, Ludwig and O'Neil are engaged in a quiet conversation.)
+
+LUDWIG: (quietly) Do like we said, OK.
+
+O'NEIL: (quietly) Uh-huh. You know what to say, right?
+
+MULDER: (to Ludwig) I could use a little help.
+
+O'NEIL: Excuse me.
+
+LUDWIG: So what do you need?
+
+MULDER: Directions, contour map, USGS survey, anything that can help me get here.
+
+(He hands Ludwig a pair of photos.)
+
+LUDWIG: Oh. These are the steam caves. They feed into the Sherman Crater. That's how we access the caldera. How did you get these?
+
+MULDER: Firewalker. They were transmitted right before Trepkos destroyed its camera.
+
+LUDWIG: Oh. So you're finally going to go after Trepkos. Well, I tell you one thing. You won't find him with those. And you won't find him with any map either.
+
+(Ludwig walks away and gets a beverage from the fridge.)
+
+MULDER: Well, how will I find them?
+
+LUDWIG: You won't. Not without a guide.
+
+MULDER: (smiling distrustingly) A guide.
+
+LUDWIG: Yeah, a guide. Look, I've been up here for almost a year. I spent months in those caves, charting every fissure, every crevice, so Firewalker wouldn't trip. If Trepkos is there, I can find him.
+
+MULDER: Well, why are you so eager to help me find him?
+
+LUDWIG: Oh, I'm, I'm not eager. I just don't feel like waiting around for Trepkos to do to me what he did to Pierce and Erikson. Plus you've got the gun. You're the only one who can get us out of this place.
+
+(A short time later, Mulder and Ludwig are descending an incline that leads to the steam caves.)
+
+MULDER: Whatever I'm smelling, is it toxic?
+
+LUDWIG: Between the heat and the sulfur, it can get pretty nasty in here, but it won't hurt you. You'll get used to it.
+
+MULDER: How far does the cave extend?
+
+LUDWIG: About three quarters of a mile to the crater rim. Let's head in. It twists around quite a bit until you get there. Lots of dead ends and blind drops and unless you know where you're going, you're like a rat in a maze.
+
+(They pause for a moment and Mulder turns away. Suddenly a flare comes from the path ahead and strikes Ludwig in the back. He falls to the ground. As Mulder kneels over him, Trepkos emerges from the cave, reloads his flare gun and points it at Mulder.)
+
+
+
+
+SCENE 6
+(In the cave, Trepkos still has the flare gun aimed at Mulder.)
+
+TREPKOS: Your gun. (Mulder gives it to him) Back. Get back.
+
+(Trepkos pours a flammable liquid over Ludwig's body.)
+
+MULDER: Why are you doing this, Trepkos? He's already dead. How many times do you have to kill him?
+
+(Mulder looks down and sees a large bulge moving around in Ludwig's neck. Trepkos prepares to set off another flare.)
+
+TREPKOS: It's not him I'm trying to kill.
+
+(He lights the flare and tosses it onto Ludwig's body, which bursts into flames.)
+
+(Back at the base, Scully is working in the laboratory, with a test tube containing a reddish material heating over a burner. She picks up her tape recorder and dictates a log entry.)
+
+SCULLY: (to recorder) I have attempted to culture the spore using temperatures ranging from human basal to those approximating the volcanic interior. I've used nutritive mediums, containing human tissue, blood and saliva, even sulfur. However, none of the seven trials have successfully grown the fungus that killed Tanaka. Based on this preliminary data, I've come to the following hypothesis: that unless these spores are ingested or inhaled by the host organism immediately upon their release, they become harmless ... effectively dead.
+
+(Shortly afterward, Scully knocks on O'Neil's door.)
+
+SCULLY: Jesse?
+
+(There is no answer. She knocks again and tries the door but it is locked.)
+
+O'NEIL: (from inside) What is it?
+
+SCULLY: I thought you might like to know, chances are good that none of us were infected. We were at a safe distance from Tanaka when the spores scattered, and as soon as Mulder and Ludwig come back we can leave. I, I just need to run a few more tests but I think we're going to be OK.
+
+(Inside, O'Neil is in front of a mirror, coughing. She sees that there is a bulge moving in the front of her throat and groans.)
+
+SCULLY: OK, Jesse? Jesse?
+
+(Mulder and Trepkos are at Firewalker.)
+
+MULDER: What went wrong, Trepkos? Firewalker carried something back to the surface.
+
+TREPKOS: Firewalker brought up an elephant. The truth is an elephant described by three blind men. The first man touches the tail and says it's a rope. The second man feels the rough leg and says it's a tree. The third man feels the trunk and says it's a snake.
+
+MULDER: What about you? What do you say it is?
+
+TREPKOS: I say the earth holds some truths best left buried.
+
+MULDER: Like the spore?
+
+TREPKOS: (staring at Mulder) Who are you?
+
+MULDER: I'm Special Agent Mulder. I'm with the FBI.
+
+TREPKOS: You don't look like a policeman.
+
+MULDER: I came down here to investigate Erikson's death.
+
+TREPKOS: That's not why you're here. You still believe you can petition heaven and get some penetrating answer. If you found that answer, what would you do with it?
+
+MULDER: I just want to know what happened after the first descent. What did you find?
+
+TREPKOS: It was porous. Obsidian. Erikson thought it was some sort of rock, so I told him to pulverize it for analysis.
+
+MULDER: Erikson released the spore?
+
+TREPKOS: He discovered a new life form. In a single moment, everything that science held sacred suddenly turned on its head.
+
+MULDER: What about Erikson? If he was infected ...
+
+TREPKOS: I was too immersed in the work to notice. I'd been alone in the lab for three days when I heard their screams. They were all gathered around him. By the time I realized what was happening, they were already changing. The spore grew in each of them until it became them.
+
+MULDER: What do you mean?
+
+TREPKOS: It's a parasite. It lives to find a host.
+
+MULDER: But you weren't infected?
+
+TREPKOS: No.
+
+MULDER: You destroyed your work, the transmitting equipment, you killed Pierce so no one could leave.
+
+TREPKOS: No one can leave.
+
+MULDER: What about O'Neil?
+
+TREPKOS: Jesse?
+
+MULDER: Was she exposed to the spore?
+
+TREPKOS: They were all exposed. All of them.
+
+MULDER: I have a colleague - a friend - who's with O'Neil right now. Let me go to her.
+
+TREPKOS: She may already be infected.
+
+(Mulder starts to leave but Trepkos aims the gun at Mulder and cocks the hammer.)
+
+TREPKOS: I can't let you leave.
+
+MULDER: Then you're going to have to shoot me. Because I'm walking out of here.
+
+(At the station, Scully continues to work at the microscope. The lights suddenly go out. Scully grabs a flashlight and starts toward the living quarters.)
+
+SCULLY: Jesse?
+
+(There is no answer. Scully goes to the electrical switchbox and checks the switches but the problem is not there. As she closes the door to the switchbox, O'Neil appears, startling Scully.)
+
+SCULLY: Oh! God, you scared me! Jesse? Are you OK? Jesse, what's wrong? Jesse?
+
+(O'Neil appears to be in pain. She pushes Scully toward a table and slips a handcuff around Scully's wrist, handcuffing the two together.)
+
+SCULLY: Jesse, what are you doing?
+
+(Scully looks up and sees a large bulge forming in O'Neil's throat.
+
+(Outside, Mulder is running through the woods.)
+
+(In the station, Scully pulls O'Neil back into the lab. She puts their wrists onto the table and grabs the mountaineering pick. She strikes at the chain repeatedly in an unsuccessful effort to sever it.)
+
+(Outside, Mulder emerges from the woods and is in sight of the station.)
+
+(Inside, Scully hasn't been able to break the chain, and she sees that the bulge in O'Neil's throat is getting larger. She throws O'Neil over her shoulder and heads into the next room. She puts O'Neil into a plexiglass contaminated sample chamber, closes the door against the chain and leans on the door from the outside to keep it shut. O'Neil rises and tries to break through the plexiglass but cannot. She falls back into the room and the spike erupts, ejecting the spores against the inside of the plexiglass while Scully is safe outside. Scully sinks to the floor and tries to catch her breath as Mulder is heard entering the station.)
+
+MULDER: (in the distance) Scully!
+
+(He bursts into the laboratory.)
+
+MULDER: Scully!
+
+SCULLY: I'm OK, I'm OK.
+
+(Mulder comes to her side. Scully sighs heavily, and Mulder gently puts his hand to the side of her neck.)
+
+MULDER: Are you all right?
+
+SCULLY: I'm OK.
+
+(She looks up at the handcuffs. Mulder uses his key to unlock it, freeing her arm. Mulder gives her a "sure you're OK?" look.)
+
+SCULLY: Yeah.
+
+(Mulder helps her up and they look at O'Neil's body through the plexiglass.)
+
+SCULLY: Look. She was infected. I don't know how.
+
+MULDER: Erikson was the original host. When the fungus shed its spores, everyone was at ground zero except for Trepkos.
+
+SCULLY: Did you find him?
+
+(Trepkos enters the lab, still carrying the gun, which he sets aside. He sinks to his knees at the chamber door, staring at O'Neil's body through the plexiglass.)
+
+TREPKOS: I told her it would change her life.
+
+MULDER: (to radio) Search and Rescue, this is Agent Mulder. Do you copy?
+
+RADIO: This is Army Biohazard. How many are in your party?
+
+(Mulder looks toward Trepkos, who returns the stare.)
+
+MULDER: (to radio) We have two survivors, Agent Scully and myself.
+
+RADIO: Copy that. Our ETA is seven minutes.
+
+SCULLY: Mulder, what are you doing? They're going to want to question him.
+
+MULDER: It's all over, Scully. He won't talk.
+
+(Later, the Army Biohazard crew is decontaminating the station and also putting notebooks and other records into biohazard containers.)
+
+MULDER: (voice-over) Scully and I are in the third day of a month-long quarantine, undergoing level 4 decon procedures. We are so far without symptoms of fungal contamination. All our specimens and field notes were confiscated by the military biohazard corps prior to our evacuation. Their presence has delayed for an indefinite period the arrival of the USGS data retrieval team. I suspect, though, that there will be little left for them to retrieve. There are no plans at present to explore further any of the hundreds of volcanically active mountains in the Cascade Range, including Mount Avalon. All access points to that volcano have been sealed off by army engineers.
+
+(Trepkos is carrying O'Neil's body down the entrance incline into the steam caves and then to the Firewalker area.)
+
+MULDER: (voice-over, continued) Of the members of the Firewalker descent team, only Trepkos and O'Neil remain unaccounted for. They are presumed dead, and the search for them has been abandoned. Firewalker, however, was recovered, though its sensory and locomotive systems were found to be irreparably damaged. The data it collected from the earth's interior will never be known. And of the events that occurred at Mount Avalon between the 11th and 13th of November, 1994, mine stands as the only record.
+
+[THE END] 
